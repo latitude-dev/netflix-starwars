@@ -1,7 +1,7 @@
-# flyctl launch added from .gitignore
-**/.DS_Store
 .git*
 .latitude
+.env
 README.md
+build
 fly.toml
-
+node_modules

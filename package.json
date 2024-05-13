@@ -1,5 +1,8 @@
 {
   "scripts": {
     "latitude-dev": "../../node_modules/.bin/latitude"
+  },
+  "dependencies": {
+    "@latitude-data/duckdb-connector": "^2.1.1"
   }
 }
